@@ -22,7 +22,6 @@ The analysis covers probability calculations, hypothesis testing, and regression
 - [Analyze A/B Test Results](#analyze-ab-test-results)
   - [Project Overview](#project-overview)
   - [Table of Contents](#table-of-contents)
-  - [Getting Started](#getting-started)
   - [Project Workflow](#project-workflow)
     - [Part I: Probability](#part-i-probability)
     - [Part II: A/B Test](#part-ii-ab-test)
@@ -33,20 +32,7 @@ The analysis covers probability calculations, hypothesis testing, and regression
     - [Example Graphs](#example-graphs)
   - [Acknowledgments](#acknowledgments)
 
----
 
-## Getting Started
-
-To explore the analysis:
-
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/ab-test-analysis.git
-   ```
-2. Install the required Python libraries listed in the `Dependencies` section.
-3. Open the Jupyter Notebook `Analyze_AB_Test_Results.ipynb` to follow the analysis step by step.
-
----
 
 ## Project Workflow
 
