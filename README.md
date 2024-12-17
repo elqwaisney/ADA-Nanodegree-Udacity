@@ -13,7 +13,6 @@ This project was completed as part of the Advanced Data Analysis Nanodegree. It 
 - Run the experiment longer to make a decision.
 
 The analysis covers probability calculations, hypothesis testing, and regression modeling to draw data-driven conclusions. The notebook is structured into multiple sections, including data cleaning, statistical tests, and modeling.
-
 ---
 
 ## Table of Contents
@@ -21,18 +20,16 @@ The analysis covers probability calculations, hypothesis testing, and regression
 - [ADA-Nanodegree-Udacity](#ada-nanodegree-udacity)
 - [Analyze A/B Test Results](#analyze-ab-test-results)
   - [Project Overview](#project-overview)
+  - [The analysis covers probability calculations, hypothesis testing, and regression modeling to draw data-driven conclusions. The notebook is structured into multiple sections, including data cleaning, statistical tests, and modeling.](#the-analysis-covers-probability-calculations-hypothesis-testing-and-regression-modeling-to-draw-data-driven-conclusions-the-notebook-is-structured-into-multiple-sections-including-data-cleaning-statistical-tests-and-modeling)
   - [Table of Contents](#table-of-contents)
   - [Project Workflow](#project-workflow)
     - [Part I: Probability](#part-i-probability)
     - [Part II: A/B Test](#part-ii-ab-test)
     - [Part III: Regression](#part-iii-regression)
   - [Key Findings](#key-findings)
-  - [Dependencies](#dependencies)
-  - [Results and Visualizations](#results-and-visualizations)
-    - [Example Graphs](#example-graphs)
+  - [**Conclusion**: The analysis suggests that the new page does not lead to higher conversion rates. The company may consider keeping the old page or further optimizing the new page before implementing it.](#conclusion-the-analysis-suggests-that-the-new-page-does-not-lead-to-higher-conversion-rates-the-company-may-consider-keeping-the-old-page-or-further-optimizing-the-new-page-before-implementing-it)
   - [Acknowledgments](#acknowledgments)
-
-
+---
 
 ## Project Workflow
 
@@ -67,41 +64,6 @@ The analysis covers probability calculations, hypothesis testing, and regression
 3. Logistic regression reinforced that the group assignment (control vs. treatment) had no significant impact on conversion rates.
 
 **Conclusion**: The analysis suggests that the new page does not lead to higher conversion rates. The company may consider keeping the old page or further optimizing the new page before implementing it.
-
----
-
-## Dependencies
-
-Ensure the following Python libraries are installed:
-
-- `numpy`
-- `pandas`
-- `matplotlib`
-- `scipy`
-- `statsmodels`
-  
-You can install them using:
-```bash
-pip install numpy pandas matplotlib scipy statsmodels
-```
-
----
-
-## Results and Visualizations
-
-### Example Graphs
-
-1. **Conversion Rates**: Visualized conversion rates for control and treatment groups.
-   ![Conversion Rates](graphs/conversion_rates.png)
-
-2. **Simulated Null Distribution**: Showed the null distribution with the observed difference in conversion rates.
-   ![Null Distribution](graphs/null_distribution.png)
-
-3. **Logistic Regression Coefficients**: Highlighted the regression model's output.
-   ![Regression Output](graphs/regression_coefficients.png)
-
-_For a full set of visualizations, see the notebook._
-
 ---
 
 ## Acknowledgments
