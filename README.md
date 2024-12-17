@@ -68,5 +68,3 @@ The analysis covers probability calculations, hypothesis testing, and regression
 ## Acknowledgments
 
 This project was guided by the Advanced Data Analysis Nanodegree program. The dataset and problem statement were provided as part of the curriculum.
-
----
