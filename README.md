@@ -1,5 +1,3 @@
-# ADA-Nanodegree-Udacity
-This repo contains my projects and the certificate I acheived in my Advanced Data Analysis Nanodegree scholarship at Udacity
 
 
 # Analyze A/B Test Results
@@ -13,22 +11,21 @@ This project was completed as part of the Advanced Data Analysis Nanodegree. It 
 - Run the experiment longer to make a decision.
 
 The analysis covers probability calculations, hypothesis testing, and regression modeling to draw data-driven conclusions. The notebook is structured into multiple sections, including data cleaning, statistical tests, and modeling.
+
 ---
 
 ## Table of Contents
 
-- [ADA-Nanodegree-Udacity](#ada-nanodegree-udacity)
 - [Analyze A/B Test Results](#analyze-ab-test-results)
   - [Project Overview](#project-overview)
-  - [The analysis covers probability calculations, hypothesis testing, and regression modeling to draw data-driven conclusions. The notebook is structured into multiple sections, including data cleaning, statistical tests, and modeling.](#the-analysis-covers-probability-calculations-hypothesis-testing-and-regression-modeling-to-draw-data-driven-conclusions-the-notebook-is-structured-into-multiple-sections-including-data-cleaning-statistical-tests-and-modeling)
   - [Table of Contents](#table-of-contents)
   - [Project Workflow](#project-workflow)
     - [Part I: Probability](#part-i-probability)
     - [Part II: A/B Test](#part-ii-ab-test)
     - [Part III: Regression](#part-iii-regression)
   - [Key Findings](#key-findings)
-  - [**Conclusion**: The analysis suggests that the new page does not lead to higher conversion rates. The company may consider keeping the old page or further optimizing the new page before implementing it.](#conclusion-the-analysis-suggests-that-the-new-page-does-not-lead-to-higher-conversion-rates-the-company-may-consider-keeping-the-old-page-or-further-optimizing-the-new-page-before-implementing-it)
   - [Acknowledgments](#acknowledgments)
+
 ---
 
 ## Project Workflow
@@ -64,8 +61,12 @@ The analysis covers probability calculations, hypothesis testing, and regression
 3. Logistic regression reinforced that the group assignment (control vs. treatment) had no significant impact on conversion rates.
 
 **Conclusion**: The analysis suggests that the new page does not lead to higher conversion rates. The company may consider keeping the old page or further optimizing the new page before implementing it.
+
 ---
+
 
 ## Acknowledgments
 
 This project was guided by the Advanced Data Analysis Nanodegree program. The dataset and problem statement were provided as part of the curriculum.
+
+---
